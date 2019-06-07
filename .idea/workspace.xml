@@ -8,31 +8,47 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/amcharts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-436">
-              <caret line="47" column="37" lean-forward="true" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+            <state relative-caret-position="334">
+              <caret line="86" column="27" selection-start-line="86" selection-end-line="87" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amcharts.html">
+        <entry file="file://$PROJECT_DIR$/logic.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="468">
+              <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/logic.js">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="656">
+                <caret line="123" column="88" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="88" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+            <state relative-caret-position="193">
+              <caret line="17815" column="27" selection-start-line="17815" selection-start-column="27" selection-end-line="17815" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -51,17 +67,25 @@
       <find>0.1</find>
       <find>bidsvolume</find>
       <find>console.log</find>
-      <find>onkey</find>
       <find>tool</find>
+      <find>price</find>
+      <find>dura</find>
+      <find>onkey</find>
+      <find>console</find>
+      <find>liquidityDetails</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/logic.js.ts" />
         <option value="$PROJECT_DIR$/amcharts.js" />
         <option value="$PROJECT_DIR$/amcharts.html" />
-        <option value="$PROJECT_DIR$/logic.js.ts" />
         <option value="$PROJECT_DIR$/logic.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -69,11 +93,12 @@
     <option name="directoryName" value="rvKnhovY" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1262" />
-    <option name="y" value="295" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="x" value="133" />
+    <option name="y" value="187" />
+    <option name="width" value="2364" />
+    <option name="height" value="1194" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -95,10 +120,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RunDashboard">
@@ -123,27 +150,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559886633320</updated>
-      <workItem from="1559886634658" duration="4458000" />
+      <workItem from="1559886634658" duration="14476000" />
     </task>
+    <task id="LOCAL-00001" summary="polish">
+      <created>1559936211384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559936211384</updated>
+    </task>
+    <task id="LOCAL-00002" summary="rename">
+      <created>1559936232544</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559936232544</updated>
+    </task>
+    <task id="LOCAL-00003" summary="use new field names">
+      <created>1559943057682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559943057682</updated>
+    </task>
+    <task id="LOCAL-00004" summary="use live api">
+      <created>1559943588673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559943588673</updated>
+    </task>
+    <task id="LOCAL-00005" summary="screenshot">
+      <created>1559943802329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559943802329</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4458000" />
+    <option name="totallyTimeSpent" value="14476000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1262" y="295" width="1680" height="1027" extended-state="0" />
+    <frame x="133" y="187" width="2364" height="1194" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17614126" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="CheckStyle" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.27767694" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -166,25 +229,55 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="polish" />
+    <MESSAGE value="rename" />
+    <MESSAGE value="use new field names" />
+    <MESSAGE value="use live api" />
+    <MESSAGE value="screenshot" />
+    <option name="LAST_COMMIT_MESSAGE" value="screenshot" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/amcharts.html">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="35" />
+        <state relative-caret-position="193">
+          <caret line="17815" column="27" selection-start-line="17815" selection-start-column="27" selection-end-line="17815" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amcharts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-436">
-          <caret line="47" column="37" lean-forward="true" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        <state relative-caret-position="334">
+          <caret line="86" column="27" selection-start-line="86" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amcharts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+        <state relative-caret-position="468">
+          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="656">
+            <caret line="123" column="88" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="88" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -4,15 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8">
     <title></title>
-<script>
-function resetChart() {
-window.chart.data = []
-}
-</script>
 </head>
 <body>
 <div class="container">
-    <div class="chart" id="chart--depth" style="height:900px;"></div>
+    <div class="chart" id="chart--depth" style="height: 900px;"></div>
 </div>
 <script src="assets/jquery.min.js" type="text/javascript"></script>
 
@@ -21,14 +16,14 @@ window.chart.data = []
 <script src="https://www.amcharts.com/lib/4/maps.js"></script>
 <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
 
+<select id="timebox" style="float:left;">
+</select>
+<div id="liquidityDetails" style="float:left; padding-left: 100px;"></div>
+
 
 <script src="assets/axios.min.js"></script>
 <script src="amcharts.js"></script>
 <script src="logic.js"></script>
-
-<a href="javascript:resetChart()">reset</a>
-<a href="javascript:window.doSetUni(3300, 815000)">set</a>
-
 
 </body>
 </html>
